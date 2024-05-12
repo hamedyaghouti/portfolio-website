@@ -1,5 +1,5 @@
 import {
-  mobile,
+  // mobile,
   backend,
   creator,
   web,
@@ -23,7 +23,6 @@ import {
   jobit,
   tripguide,
   threejs,
-  //@ts-ignore
 } from "@/assets";
 
 export const navLinks = [
