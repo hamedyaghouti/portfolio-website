@@ -28,6 +28,9 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import kankashTestimonial from "./testimonials/kankash.jpeg";
+import amerioonTestimonial from "./testimonials/amerioon.jpeg";
+
 export {
   logo,
   backend,
@@ -55,4 +58,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  kankashTestimonial,
+  amerioonTestimonial,
 };

@@ -21,6 +21,8 @@ import {
   carrent,
   jobit,
   tripguide,
+  kankashTestimonial,
+  amerioonTestimonial,
 } from "@/assets";
 
 export const navLinks = [
@@ -163,18 +165,18 @@ const testimonials = [
   {
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    name: "M Kankash",
+    designation: "CTO",
+    company: "BSI",
+    image: kankashTestimonial,
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "I've never met a web developer who truly cares about their clients' success like Hamed does.",
+    name: "S Amerioon",
+    designation: "PM",
+    company: "BSI",
+    image: amerioonTestimonial,
   },
   {
     testimonial:
